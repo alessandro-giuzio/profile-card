@@ -26,5 +26,5 @@
 ## Author
 
 - Website - Alessandro https://www.giuzio.me
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - @giuzioalehttps://www.twitter.com/giuzioale
+- Frontend Mentor - @elsimaterhttps://www.frontendmentor.io/profile/elsimater
+- Twitter - @giuzioale https://www.twitter.com/giuzioale
